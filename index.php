@@ -1,3 +1,3 @@
 <?php
 
-    echo "BudgetBee coming soon!";
+    echo "BudgetBee - Coming Soon!";
