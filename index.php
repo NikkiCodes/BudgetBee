@@ -1,9 +1,14 @@
 <?php
 
     $companyName = "BudgetBee";
+    $year = date("Y");
 
-    echo "<div>{$companyName} - Coming Soon!</div>";
+    echo "<div style='text-align:center;font-weight:bold;font-size:22px;'>{$companyName} - Coming Soon!</div>";
 
     echo "<hr>";
     ?>
-    Contact <?php echo $companyName; ?> with questions. 
+    <p style="text-align:center;">
+    Contact <?php echo $companyName; ?> with questions.
+    <br>
+    copyright <?php echo $year; ?>
+    </p>
