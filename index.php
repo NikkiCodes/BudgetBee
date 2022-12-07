@@ -9,9 +9,8 @@
     <p style="text-align:center;">
         <img src="bee.png" style="width:125px;">
     </p>
-
     <p style="text-align:center;">
-    Contact <?php echo $companyName; ?> with questions.
-    <br>
-    copyright <?php echo $year; ?>
+        Contact <?php echo $companyName; ?> with questions.
+        <br>
+        copyright <?php echo $year; ?>
     </p>
